@@ -12,8 +12,6 @@ It covers everything from the basics of programming to advanced Java concepts �
 🎓 **Learn from Prashant Sir**  
 [👉 Java Beginner to Advanced - YouTube Playlist](https://youtube.com/playlist?list=PL78RhpUUKSweClRi_l05UgfE3053-zkRf&si=dhnSeqszBlPnScTF)
 
-![YouTube](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)
-
 ---
 
 ## ✅ Currently Covered Topics
@@ -59,15 +57,14 @@ This repository will be **regularly updated** as I continue learning and practic
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/ipartzix" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" style="vertical-align: middle;"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/ipartzix" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram" style="vertical-align: middle;"/>
   </a>
-</p>
+</div>
 
 ---
 
