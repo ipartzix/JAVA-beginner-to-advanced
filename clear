@@ -1,0 +1,7 @@
+ipartzix.email=parthapaul2705@gmail.com
+user.name=Partha Paul
+user.email=your_email@example.com
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
