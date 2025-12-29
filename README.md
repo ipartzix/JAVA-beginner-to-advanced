@@ -1,6 +1,6 @@
 # ☕ JAVA - Beginner to Advanced
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="150" height="50" alt="Java Banner"/>
+![Java Banner](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg)
 
 This repository contains all Java programs and exercises I’ve completed while learning from **Prashant Sir’s Java Course** on YouTube.  
 It covers everything from the basics of programming to advanced Java concepts — including **OOP, exception handling, collections, and multithreading**.
@@ -16,7 +16,7 @@ It covers everything from the basics of programming to advanced Java concepts �
 
 ## ✅ Currently Covered Topics
 
-<img align="right" width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ Logo"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 
 - Introduction to Java & Programming Concepts
 - Java Basics (JDK, JVM, IDE Setup, First Program)
@@ -41,15 +41,32 @@ It covers everything from the basics of programming to advanced Java concepts �
 
 | Tool | Purpose |
 |------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/> | Programming Language |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="30" height="30"/> | IDE for Development |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/> | Version Control |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30"/> | Repository Hosting |
+| ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | Programming Language |
+| ![IntelliJ IDEA](https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg) | IDE for Development |
+| ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) | Version Control |
+| ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) | Repository Hosting |
 
 ---
 
-## 🏃 How to Run Programs
+## 🧠 Note
+This repository will be **regularly updated** as I continue learning and practicing more Java concepts.
 
-1. Clone the repository:
-```bash
-git clone https://github.com/ipartzix/JAVA-beginner-to-advanced.git
+⭐ *If you find this helpful, consider giving it a star on GitHub!*
+
+---
+
+## 🌐 Connect with Me
+
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/ipartzix" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://www.instagram.com/ipartzix" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram" style="vertical-align: middle;"/>
+  </a>
+</div>
+
+---
+
+👨‍💻 **Created by [Ipartzix (Partha Paul)](https://github.com/ipartzix)**  
+🚀 *Aspiring Computer Science Engineer | Java | AI/ML | Core Systems Development*
