@@ -1,0 +1,10 @@
+git add .
+git commit -m "message"
+git push
+
+
+
+
+git add .            // select all changes for commit
+git commit -m "msg"  // save a local snapshot of changes
+git push             // upload commits to GitHub
